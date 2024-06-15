@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-06-15T06:51:15-00:00</lastmod>
+<lastmod>2024-06-15T06:56:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-06-15T06:51:15-00:00</lastmod>
+<lastmod>2024-06-15T06:56:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-06-15T06:51:15-00:00</lastmod>
+<lastmod>2024-06-15T06:56:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-06-15T06:51:15-00:00</lastmod>
+<lastmod>2024-06-15T06:56:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -74,6 +74,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./自製小遊戲.html</loc>
+<lastmod>2024-06-15T06:56:48+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./category/bython-cheng-shi-ying-yong.html</loc>
 <lastmod>2024-06-15T06:50:31+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -102,15 +109,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./category/zi-zhi-xiao-you-xi.html</loc>
+<lastmod>2024-06-15T06:56:48+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./tag/wang-zhi-bian-xie.html</loc>
-<lastmod>2024-06-15T06:51:11+08:06</lastmod>
+<lastmod>2024-06-15T06:56:48+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/kmo41223144.html</loc>
-<lastmod>2024-06-15T06:51:11+08:06</lastmod>
+<lastmod>2024-06-15T06:56:48+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
