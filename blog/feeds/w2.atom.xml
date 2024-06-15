@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w2</title><link href="./" rel="alternate"></link><link href="./feeds/w2.atom.xml" rel="self"></link><id>./</id><updated>2024-06-15T06:38:04+08:00</updated><entry><title>w2 課程心得</title><link href="./W2%20%E8%AA%B2%E7%A8%8B%E5%BF%83%E5%BE%97.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-15T06:38:04+08:00</updated><author><name>kmo41223144</name></author><id>tag:None,2024-02-18:./W2 課程心得.html</id><summary type="html">&lt;h2&gt;學習如何建立個人網站&lt;/h2&gt;
+&lt;p&gt;mde.tw裡面步驟寫得非常清楚，線將自己的github網站連結到https://github.com/mdecycu/cmsimde_site&lt;/p&gt;
+&lt;p&gt;再利用"Use this template" 下方的 "Create a new repository" 建立名稱為 wcm2024 的倉儲，在 wcm2024 倉儲上方 …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;學習如何建立個人網站&lt;/h2&gt;
+&lt;p&gt;mde.tw裡面步驟寫得非常清楚，線將自己的github網站連結到https://github.com/mdecycu/cmsimde_site&lt;/p&gt;
+&lt;p&gt;再利用"Use this template" 下方的 "Create a new repository" 建立名稱為 wcm2024 的倉儲，在 wcm2024 倉儲上方的 Settings 設定頁面中, 左方 Pages 中的 Branch 分支區域, 選擇將 main 分支存為網頁的 root 跟目錄最後等 wcm2024 的倉儲 Github Pages 轉檔完成後, 可以看到 commits 提交區的綠色勾勾, 就完成網址為 https://帳號.github.io/wcm2024 的個人課程網站。&lt;/p&gt;
+&lt;h2&gt;練習replit網站維護&lt;/h2&gt;
+&lt;p&gt;1.email以獨立方式建立replit帳戶，盡量不要用跟github同一個email帳戶。&lt;/p&gt;
+&lt;p&gt;2.若要在 Replit 檢視動態網站或網誌推送到 Github 之前的內容, 必須要在動態與靜態模式中擇一使用.&lt;/p&gt;
+&lt;h2&gt;學習如何利用 Codespaces 維護網站&lt;/h2&gt;
+&lt;p&gt;Github Codespaces 維護網站的好處是, Visual Studio code 介面提供多終端機與多 ports 開啟功能, 在 Codespaces 中維護 wcm2024 的過程幾乎如同在 localhost Windows 10 或 11 的操作系統環境中進行.&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry></feed>
