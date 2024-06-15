@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w6</title><link href="./" rel="alternate"></link><link href="./feeds/w6.atom.xml" rel="self"></link><id>./</id><updated>2024-06-15T06:43:26+08:00</updated><entry><title>w6 課程心得</title><link href="./W6%20%E8%AA%B2%E7%A8%8B%E5%BF%83%E5%BE%97.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-15T06:43:26+08:00</updated><author><name>kmo41223144</name></author><id>tag:None,2024-02-18:./W6 課程心得.html</id><summary type="html">&lt;h2&gt;Git 歷史與希望解決的問題&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w6</title><link href="./" rel="alternate"></link><link href="./feeds/w6.atom.xml" rel="self"></link><id>./</id><updated>2024-06-15T06:44:56+08:00</updated><entry><title>w6 git的應用</title><link href="./W6%20git%E7%9A%84%E6%87%89%E7%94%A8.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-15T06:44:56+08:00</updated><author><name>kmo41223144</name></author><id>tag:None,2024-02-18:./W6 git的應用.html</id><summary type="html">&lt;h2&gt;Git 歷史與希望解決的問題&lt;/h2&gt;
 &lt;p&gt;Git 的目標是解決集中式版本控制系統的一些瓶頸，包括：&lt;/p&gt;
 &lt;p&gt;性能問題：集中式版本控制系統在大型 …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Git 歷史與希望解決的問題&lt;/h2&gt;
 &lt;p&gt;Git 的目標是解決集中式版本控制系統的一些瓶頸，包括：&lt;/p&gt;

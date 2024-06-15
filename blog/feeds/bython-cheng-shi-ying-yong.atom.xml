@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - bython 程式應用</title><link href="./" rel="alternate"></link><link href="./feeds/bython-cheng-shi-ying-yong.atom.xml" rel="self"></link><id>./</id><updated>2024-06-15T06:50:31+08:00</updated><entry><title>bython 程式應用</title><link href="./bython%20%E7%A8%8B%E5%BC%8F%E6%87%89%E7%94%A8.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-15T06:50:31+08:00</updated><author><name>kmo41223144</name></author><id>tag:None,2024-02-18:./bython 程式應用.html</id><summary type="html">&lt;h2&gt;Bython 的優勢&lt;/h2&gt;
+&lt;p&gt;簡單易用：保持了 Python 語法的簡潔性。
+高效能：利用 Cython 和 C 的性能優勢，加速數值計算和資料處理。
+與現有生態系統的 …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Bython 的優勢&lt;/h2&gt;
+&lt;p&gt;簡單易用：保持了 Python 語法的簡潔性。
+高效能：利用 Cython 和 C 的性能優勢，加速數值計算和資料處理。
+與現有生態系統的兼容性：可以輕鬆與 Python 和 Cython 生態系統中的庫和工具集成。&lt;/p&gt;
+&lt;h2&gt;編譯和執行 Bython 程式&lt;/h2&gt;
+&lt;p&gt;使用 Bython，您可以將 .by 檔案轉換為 .pyx 檔案，然後用 Cython 進行編譯：&lt;/p&gt;
+&lt;p&gt;bython square.by # 生成 square.pyx&lt;/p&gt;
+&lt;p&gt;cythonize -i square.pyx # 編譯生成可執行的 .so 文件
+接下來，您可以在 Python 中使用這個編譯好的模組：&lt;/p&gt;
+&lt;p&gt;import square&lt;/p&gt;
+&lt;p&gt;print(square.square(5)) # 輸出 25&lt;/p&gt;
+&lt;h2&gt;Bython 程式範例，展示了如何定義函數和進行數值計算：&lt;/h2&gt;
+&lt;h1&gt;square.by&lt;/h1&gt;
+&lt;p&gt;def square(x: int) -&amp;gt; int:&lt;/p&gt;
+&lt;p&gt;return x * x&lt;/p&gt;
+&lt;p&gt;print(square(5)) # 輸出 25&lt;/p&gt;</content><category term="bython 程式應用"></category><category term="網誌編寫"></category></entry></feed>
