@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-15T06:56:48+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-14T15:59:20+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-19T16:44:19+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-14T15:59:20+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -275,7 +275,16 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;p&gt;1.email以獨立方式建立replit帳戶，盡量不要用跟github同一個email帳戶。&lt;/p&gt;
 &lt;p&gt;2.若要在 Replit 檢視動態網站或網誌推送到 Github 之前的內容, 必須要在動態與靜態模式中擇一使用.&lt;/p&gt;
 &lt;h2&gt;學習如何利用 Codespaces 維護網站&lt;/h2&gt;
-&lt;p&gt;Github Codespaces 維護網站的好處是, Visual Studio code 介面提供多終端機與多 ports 開啟功能, 在 Codespaces 中維護 wcm2024 的過程幾乎如同在 localhost Windows 10 或 11 的操作系統環境中進行.&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>w6 git的應用</title><link href="./W6%20git%E7%9A%84%E6%87%89%E7%94%A8.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-15T06:44:56+08:00</updated><author><name>kmo41223144</name></author><id>tag:None,2024-02-18:./W6 git的應用.html</id><summary type="html">&lt;h2&gt;Git 歷史與希望解決的問題&lt;/h2&gt;
+&lt;p&gt;Github Codespaces 維護網站的好處是, Visual Studio code 介面提供多終端機與多 ports 開啟功能, 在 Codespaces 中維護 wcm2024 的過程幾乎如同在 localhost Windows 10 或 11 的操作系統環境中進行.&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>w3 課程整理</title><link href="./W3%20%E8%AA%B2%E7%A8%8B%E6%95%B4%E7%90%86.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-19T16:44:19+08:00</updated><author><name>kmo41223144</name></author><id>tag:None,2024-02-18:./W3 課程整理.html</id><summary type="html">&lt;h2&gt;利用 Github Classroom 分組&lt;/h2&gt;
+&lt;p&gt;自行建立各組 Team, 以第一組為例, Team 名稱為 ag1, 之後以每組至多 6 名組員, 透過作業連結加入 ag1 Team, 其餘各組組 …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;利用 Github Classroom 分組&lt;/h2&gt;
+&lt;p&gt;自行建立各組 Team, 以第一組為例, Team 名稱為 ag1, 之後以每組至多 6 名組員, 透過作業連結加入 ag1 Team, 其餘各組組員則依序建立 ag2, ag3 等 Team 名稱, 讓該組組員可以加入.&lt;/p&gt;
+&lt;h2&gt;利用 Github Codespaces 維護倉儲&lt;/h2&gt;
+&lt;p&gt;使用 Replit 管理分組網站, 必須採動態建立 .ssh 目錄中的私鑰與 config, 過程比較複雜, 但若採用 Github Codespaces, 則可以在登入 Github 帳號下, 管理該帳號所有授權的倉儲, 包括分組倉儲與網站, 唯一的限制是每個月只能使用 120 core hours, 若以內定的 2 core 執行管理, 則平均每天可以使用兩個小時.&lt;/p&gt;
+&lt;h2&gt;利用 Gitpod 維護倉儲&lt;/h2&gt;
+&lt;p&gt;https://www.gitpod.io/ 的使用與 Codespaces 類似, 都可透過 Visual Studio Code 的網際介面進行倉儲的管理, 每個月有 50 小時的免費使用時間, 可以使用 Github 帳號登入, 相較於 Replit, 其給定的免費資源較多, 執行速度快且 .ssh 下的 id_rsa 與 config 僅需設定一次.&lt;/p&gt;
+&lt;h2&gt;利用 localhost 維護倉儲&lt;/h2&gt;
+&lt;p&gt;前面提到的 Replit, Codespaces 與 Gitpod 是目前利用雲端運算管理分散式版次管理系統較為有名的環境, 使用者可以直接在瀏覽器中執行各種運算與程式的開發, wcm2024 網際內容管理的第一個階段, 便利用這些目前提供免費使用的範圍內來維護個人與分組的網站. 即便如此, 免費帳號各有不銅的限制, 目前允許免費使用的 Github Pages, 也可能在未來轉為收費服務, 因此未來希望對個人或團隊的倉儲或網站掌控最大權限, 仍需學習如何利用近端或自架主機管理及部署網際內容.&lt;/p&gt;
+&lt;p&gt;首先, 透過 Windows 環境中的 USB 隨身碟, 配置可攜程式系統, 用來管理個人與分組的分組倉儲與網站, 之後再設法介紹如何利用自行建立的 Ubuntu 主機配置倉儲與網站.&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>w6 git的應用</title><link href="./W6%20git%E7%9A%84%E6%87%89%E7%94%A8.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-15T06:44:56+08:00</updated><author><name>kmo41223144</name></author><id>tag:None,2024-02-18:./W6 git的應用.html</id><summary type="html">&lt;h2&gt;Git 歷史與希望解決的問題&lt;/h2&gt;
 &lt;p&gt;Git 的目標是解決集中式版本控制系統的一些瓶頸，包括：&lt;/p&gt;
 &lt;p&gt;性能問題：集中式版本控制系統在大型 …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Git 歷史與希望解決的問題&lt;/h2&gt;
 &lt;p&gt;Git 的目標是解決集中式版本控制系統的一些瓶頸，包括：&lt;/p&gt;
